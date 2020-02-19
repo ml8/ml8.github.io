@@ -38,7 +38,7 @@ why these ideas are exciting and interesting.
   * [COMP141: Computer Science I](https://matthewlang.github.io/comp141)
 
 * Fall 2021 (tentative):
-  * COMP142
+  * COMP142: Computer Science II
 
 * Spring 2021 (tentative):
   * COMP364: Software Engineering
