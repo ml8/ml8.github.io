@@ -37,6 +37,13 @@ why these ideas are exciting and interesting.
   * [COMP385: Distributed Systems](https://matthewlang.github.io/comp385)
   * [COMP141: Computer Science I](https://matthewlang.github.io/comp141)
 
+* Fall 2021 (tentative):
+  * COMP142
+
+* Spring 2021 (tentative):
+  * COMP364: Software Engineering
+  * COMP141: Computer Science I
+
 ## Outside the Classroom
 
 I am originally from Cleveland, Ohio, and received my Ph.D. from The Ohio State
