@@ -15,6 +15,13 @@ systems--specifically streaming data processing systems.
 I am currently interested in how modern, high-performance networks challenge
 architectural assumptions in streaming data processing systems.
 
+### Work with Students
+
+I am always willing to incorporate interested students in my work. I have a
+weekly research group meeting where we discuss current work, plan future work,
+and read and discuss papers. [Contact me](mailto:langm@rhodes.edu) in order to
+be added to our Slack channel and be invited to future meetings.
+
 ## Teaching
 
 I love teaching computer science because I love sharing my passion for the
