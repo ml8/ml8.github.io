@@ -5,6 +5,8 @@
 * Phone: (440) 666-2694
 * Office: Briggs 207
 * Office Hours Spring 2020: TR 1-2, W 1-2
+* Zoom id: [mattlang](https://rhodes.zoom.us/my/mattlang)
+* Rhodes CS Slack: [rhodes-cs.slack.com](https://rhodes-cs.slack.com)
 * [Feedback](https://forms.gle/74oBX4KXSBuonmvh8)<sup>\[[1](#feedback)\]</sup>
 
 ## Research
