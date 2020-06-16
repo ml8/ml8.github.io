@@ -6,6 +6,7 @@
 * Office: Briggs 207
 * Office Hours Spring 2020: TR 1-2, W 1-2
 * Zoom id: [mattlang](https://rhodes.zoom.us/my/mattlang)
+* Calendly: [mattlang](https://calendly.com/mattlang)
 * Rhodes CS Slack: [rhodes-cs.slack.com](https://rhodes-cs.slack.com)
 * [Feedback](https://forms.gle/74oBX4KXSBuonmvh8)<sup>\[[1](#feedback)\]</sup>
 
@@ -38,6 +39,9 @@ why these ideas are exciting and interesting.
 
 ### Courses
 
+* Fall 2020:
+  * COMP142: Computer Science II
+
 * Spring 2020:
   * [COMP365: Software Engineering](https://matthewlang.github.io/comp365)
   * [COMP141: Computer Science I](https://matthewlang.github.io/comp141)
@@ -45,9 +49,6 @@ why these ideas are exciting and interesting.
 * Fall 2019:
   * [COMP385: Distributed Systems](https://matthewlang.github.io/comp385)
   * [COMP141: Computer Science I](https://matthewlang.github.io/comp141)
-
-* Fall 2021 (tentative):
-  * COMP142: Computer Science II
 
 * Spring 2021 (tentative):
   * COMP364: Software Engineering
