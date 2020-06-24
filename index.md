@@ -33,9 +33,10 @@ experience with it. CS is an especially exciting field of study because it
 enables creativity—with a foundational background in Computer Science, people
 can build amazing and world-changing things.
 
-As a teacher, I believe that students learn best when they want to learn. I see
-my job, then, as to not just to expose students to new ideas, but to show them
-why these ideas are exciting and interesting. 
+My teaching style is informed by my belief that students learn best when they
+want to learn. I see my job, then, as to not just to expose students to new
+ideas, but to show them why these ideas are exciting and interesting and to
+serve as guide in their discovery of knowledge.
 
 ### Courses
 
