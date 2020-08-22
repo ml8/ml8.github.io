@@ -4,7 +4,7 @@
 * Email: [langm@rhodes.edu](mailto:langm@rhodes.edu)
 * Phone: (440) 666-2694
 * Office: Briggs 207
-* Office Hours Spring 2020: TR 1-2, W 1-2
+* Office Hours Fall 2020: MW 2-4
 * Zoom id: [mattlang](https://rhodes.zoom.us/my/mattlang)
 * Calendly: [mattlang](https://calendly.com/mattlang)
 * Rhodes CS Slack: [rhodes-cs.slack.com](https://rhodes-cs.slack.com)
