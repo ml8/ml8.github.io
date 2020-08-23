@@ -41,7 +41,7 @@ serve as guide in their discovery of knowledge.
 ### Courses
 
 * Fall 2020:
-  * COMP142: Computer Science II
+  * [COMP142: Computer Science II](https://matthewlang.github.io/comp142)
 
 * Spring 2020:
   * [COMP365: Software Engineering](https://matthewlang.github.io/comp365)
