@@ -17,7 +17,7 @@ This collection will grow over time. __Right now (11-25-20), this is just an
 initial dump of some things I've been looking at recently__.
 
 [Pull
-requests](https://github.com/matthewlang/matthewlang.github.io/edit/master/justcs.md)
+requests](https://github.com/matthewlang/matthewlang.github.io/edit/main/justcs.md)
 are welcome.
 
 ### Ethics 
