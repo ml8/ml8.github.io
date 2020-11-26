@@ -38,7 +38,16 @@ want to learn. I see my job, then, as to not just to expose students to new
 ideas, but to show them why these ideas are exciting and interesting and to
 serve as guide in their discovery of knowledge.
 
+## Ethical and Just Computer Science
+
+Here's a [list](justcs.md) of resources/articles related to justice, diversity,
+and inclusion in CS that I plan on maintaining.
+
 ### Courses
+
+* Spring 2021:
+  * [COMP385: Distributed Systems](https://matthewlang.github.io/comp385)
+  * [COMP141: Computer Science I](https://matthewlang.github.io/comp141)
 
 * Fall 2020:
   * [COMP142: Computer Science II](https://matthewlang.github.io/comp142)
@@ -50,10 +59,6 @@ serve as guide in their discovery of knowledge.
 * Fall 2019:
   * [COMP385: Distributed Systems](https://matthewlang.github.io/comp385)
   * [COMP141: Computer Science I](https://matthewlang.github.io/comp141)
-
-* Spring 2021 (tentative):
-  * COMP364: Software Engineering
-  * COMP141: Computer Science I
 
 ## Outside the Classroom
 
