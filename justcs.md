@@ -57,6 +57,7 @@ this list.__ Pull requests are welcome.
 * [Black Girls Code](https://www.blackgirlscode.com/)
 * [SIGCAS Resource
   List](http://www.sigcas.org/csged/reflecting-on-the-role-of-diversity-in-computing-and-society-resources-from-csg-ed/)
+* [Hispanics in Computing](http://hispanicsincomputing.org/)
 * [Blacks In Technology](https://www.blacksintechnology.net/)
 * [/dev/color](https://www.devcolor.org/)
 
