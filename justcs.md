@@ -74,6 +74,9 @@ are welcome.
 
 ### Fairness & Privacy
 
+* [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
+  -- Mozilla product privacy analysis
+* [The Social Dilemma Documentary](https://www.thesocialdilemma.com/)
 * [Algorithmic Fairness](https://algorithmicfairness.wordpress.com/) blog
 * [Mozilla Fellows
   Articles](https://www.mozillapulse.org/projects?keyword=mozfellows)
