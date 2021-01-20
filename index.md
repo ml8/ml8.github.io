@@ -1,4 +1,4 @@
-# Dr. Matthew Lang
+# Dr. Matt Lang
 
 * Assistant Professor of Computer Science, Rhodes College
 * Email: [langm@rhodes.edu](mailto:langm@rhodes.edu)
