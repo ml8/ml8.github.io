@@ -10,6 +10,10 @@
 * Rhodes CS Slack: [rhodes-cs.slack.com](https://rhodes-cs.slack.com)
 * [Feedback](https://forms.gle/74oBX4KXSBuonmvh8)<sup>\[[1](#feedback)\]</sup>
 
+## Fall'21 -- Spring'22
+
+On leave as Visiting Research Scientist at Google.
+
 ## Research
 
 The broad area of my research is distributed data processing
