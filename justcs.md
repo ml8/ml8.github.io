@@ -46,6 +46,7 @@ this list.__ Pull requests are welcome.
   [activism](https://github.com/drewrwilson/toolsforactivism)
 * [EFF.org projects](https://github.com/EFForg)
 
+
 #### Race
 
 * [CMD-IT](https://cmd-it.org/)
@@ -73,6 +74,10 @@ this list.__ Pull requests are welcome.
 * [LGBTQ in Technology](https://lgbtq.technology/) Slack space
 * [Out in Tech](https://outintech.com/) Organization
 * [Lesbians Who Tech](https://lesbianswhotech.org/)
+
+#### Inclusivity
+
+* [Inclusive Naming Initiative](https://inclusivenaming.org/)
 
 ### Fairness & Privacy
 
