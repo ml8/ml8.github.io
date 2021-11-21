@@ -46,7 +46,6 @@ this list.__ Pull requests are welcome.
   [activism](https://github.com/drewrwilson/toolsforactivism)
 * [EFF.org projects](https://github.com/EFForg)
 
-
 #### Race
 
 * [CMD-IT](https://cmd-it.org/)
@@ -78,6 +77,7 @@ this list.__ Pull requests are welcome.
 #### Inclusivity
 
 * [Inclusive Naming Initiative](https://inclusivenaming.org/)
+* [Atlassian Design System: Inclusive Language](https://atlassian.design/content/inclusive-writing)
 
 ### Fairness & Privacy
 
