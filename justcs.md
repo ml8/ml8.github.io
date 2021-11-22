@@ -78,6 +78,8 @@ this list.__ Pull requests are welcome.
 
 * [Inclusive Naming Initiative](https://inclusivenaming.org/)
 * [Atlassian Design System: Inclusive Language](https://atlassian.design/content/inclusive-writing)
+* [Google Developers Inclusive Documentation Style Guide](https://developers.google.com/style/inclusive-documentation)
+* [The Precise Language Guide](https://tinyurl.com/PreciseLanguageGuide)
 
 ### Fairness & Privacy
 
