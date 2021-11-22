@@ -74,6 +74,11 @@ this list.__ Pull requests are welcome.
 * [Out in Tech](https://outintech.com/) Organization
 * [Lesbians Who Tech](https://lesbianswhotech.org/)
 
+#### Inclusivity
+
+* [Inclusive Naming Initiative](https://inclusivenaming.org/)
+* [Atlassian Design System: Inclusive Language](https://atlassian.design/content/inclusive-writing)
+
 ### Fairness & Privacy
 
 * [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)
