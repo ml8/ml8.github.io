@@ -17,7 +17,7 @@ This collection will grow over time. __Right now (11-25-20), this is just an
 initial dump of some things I've been looking at recently__.
 
 __Please feel free to
-[add/edit](https://github.com/matthewlang/matthewlang.github.io/edit/main/justcs.md)
+[add/edit](https://github.com/ml8/ml8.github.io/edit/main/justcs.md)
 this list.__ Pull requests are welcome.
 
 

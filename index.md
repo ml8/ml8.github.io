@@ -50,19 +50,19 @@ and inclusion in CS that I plan on maintaining.
 ### Courses
 
 * Spring 2021:
-  * [COMP385: Distributed Systems](https://matthewlang.github.io/comp385)
-  * [COMP141: Computer Science I](https://matthewlang.github.io/comp141)
+  * [COMP385: Distributed Systems](https://ml8.github.io/comp385)
+  * [COMP141: Computer Science I](https://ml8.github.io/comp141)
 
 * Fall 2020:
-  * [COMP142: Computer Science II](https://matthewlang.github.io/comp142)
+  * [COMP142: Computer Science II](https://ml8.github.io/comp142)
 
 * Spring 2020:
-  * [COMP365: Software Engineering](https://matthewlang.github.io/comp365)
-  * [COMP141: Computer Science I](https://matthewlang.github.io/comp141)
+  * [COMP365: Software Engineering](https://ml8.github.io/comp365)
+  * [COMP141: Computer Science I](https://ml8.github.io/comp141)
 
 * Fall 2019:
-  * [COMP385: Distributed Systems](https://matthewlang.github.io/comp385)
-  * [COMP141: Computer Science I](https://matthewlang.github.io/comp141)
+  * [COMP385: Distributed Systems](https://ml8.github.io/comp385)
+  * [COMP141: Computer Science I](https://ml8.github.io/comp141)
 
 ## Outside the Classroom
 
