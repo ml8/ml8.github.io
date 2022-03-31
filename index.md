@@ -1,12 +1,12 @@
-# Dr. Matt Lang
+# Dr. Marion Lang
 
 * Assistant Professor of Computer Science, Rhodes College
 * Email: [langm@rhodes.edu](mailto:langm@rhodes.edu)
 * Phone: (440) 666-2694
 * Office: Briggs 207
 * Office Hours Fall 2020: MW 2-4
-* Zoom id: [mattlang](https://rhodes.zoom.us/my/mattlang)
-* Calendly: [mattlang](https://calendly.com/mattlang)
+* Zoom id: [langma](https://rhodes.zoom.us/my/langma)
+* Calendly: [langma](https://calendly.com/langma)
 * Rhodes CS Slack: [rhodes-cs.slack.com](https://rhodes-cs.slack.com)
 * [Feedback](https://forms.gle/74oBX4KXSBuonmvh8)<sup>\[[1](#feedback)\]</sup>
 
