@@ -2,10 +2,9 @@
 
 * Assistant Professor of Computer Science, Rhodes College
 * Email: [langm@rhodes.edu](mailto:langm@rhodes.edu)
-* Phone: (440) 666-2694
+* [Medium](https://medium.com/@langma)
 * Office: Briggs 207
-* Office Hours Fall 2020: MW 2-4
-* Zoom id: [langma](https://rhodes.zoom.us/my/langma)
+* Zoom ID: [langma](https://rhodes.zoom.us/my/langma)
 * Calendly: [langma](https://calendly.com/langma)
 * Rhodes CS Slack: [rhodes-cs.slack.com](https://rhodes-cs.slack.com)
 * [Feedback](https://forms.gle/74oBX4KXSBuonmvh8)<sup>\[[1](#feedback)\]</sup>
@@ -48,6 +47,17 @@ Here's a [list](justcs.md) of resources/articles related to justice, diversity,
 and inclusion in CS that I plan on maintaining.
 
 ### Courses
+
+* Fall 2022
+  * COMP485: Senior Seminar
+  * COMP251: Intro to Systems
+
+* Spring 2023:
+  * COMP486: Senior Seminar
+  * COMP251: Intro to Systems
+
+* Fall 2021-Spring 2022:
+  * On leave as Visiting Research Scientist at Google.
 
 * Spring 2021:
   * [COMP385: Distributed Systems](https://ml8.github.io/comp385)
