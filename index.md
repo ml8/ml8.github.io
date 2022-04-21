@@ -15,36 +15,30 @@ On leave as Visiting Research Scientist at Google.
 
 ## Research
 
-The broad area of my research is distributed data processing
-systems--specifically streaming data processing systems.
+The broad area of my research is distributed systems.
 
-I am currently interested in how modern, high-performance networks challenge
-architectural assumptions in streaming data processing systems.
+I am currently interested in distributed data processing systems, specificially
+how modern, high-performance networks challenge architectural assumptions in
+streaming data processing systems.
 
 ### Work with Students
 
-I am actively looking for students interested in my work. I have a weekly
-research group meeting where we discuss current work, plan future work, and read
-and discuss papers. [Contact me](mailto:langm@rhodes.edu) in order to be added
-to our Slack channel and be invited to future meetings.
+I enjoy including students in my research. Please contact me if you would like
+to talk about what I'm working on right now, what you're interested in, and if
+there are opportunities for you to contribute to my work.
 
 ## Teaching
 
-I love teaching computer science because I love sharing my passion for the
-discipline with others, especially those who have had no or little prior
-experience with it. CS is an especially exciting field of study because it
-enables creativity—with a foundational background in Computer Science, people
-can build amazing and world-changing things.
+I love teaching computer science because I love sharing my passion for computing
+with others, particularly those who have had no or little prior experience with
+it. CS is an especially exciting field of study because it enables
+creativity—with a foundational background in Computer Science, people can build
+amazing and world-changing things.
 
 My teaching style is informed by my belief that students learn best when they
-want to learn. I see my job, then, as to not just to expose students to new
-ideas, but to show them why these ideas are exciting and interesting and to
+want to learn. My role in a student's education is to not just to expose them to
+new ideas, but to show them why these ideas are exciting and interesting and to
 serve as guide in their discovery of knowledge.
-
-## Ethical and Just Computer Science
-
-Here's a [list](justcs.md) of resources/articles related to justice, diversity,
-and inclusion in CS that I plan on maintaining.
 
 ### Courses
 
@@ -74,20 +68,29 @@ and inclusion in CS that I plan on maintaining.
   * [COMP385: Distributed Systems](https://ml8.github.io/comp385)
   * [COMP141: Computer Science I](https://ml8.github.io/comp141)
 
+### Inclusive + Ethical Computing
+
+Making Computer Science education (and technology in general) inclusive is an
+important priority for me.
+
+Here's a [list](justcs.md) of resources/articles related to justice, diversity,
+and inclusion in CS that I will try to maintain/update.
+
 ## Outside the Classroom
 
 I am originally from Cleveland, Ohio, and received my Ph.D. from The Ohio State
-University. After my Ph.D. work, I was faculty at Moravian College in Bethlehem,
-Pennsylvania, where I taught a variety of computer science courses. I left
-Moravian to work for Google, where I built streaming data analytics platforms
-for both internal and Cloud customers. Though it was exciting to work on
-Google-scale distributed systems, I missed the fulfillment that teaching
-undergraduates provides me, and joined Rhodes in 2019.
+University. Before coming to Rhodes, I was a software engineer at Google, where
+I built streaming data analytics platforms for both internal and Cloud
+customers. Though it was exciting to work on Google-scale distributed systems, I
+missed the fulfillment that teaching undergraduates provides me, and joined
+Rhodes in 2019.
 
-I live in Downtown Memphis and outside of the classroom I enjoy food and
-cooking, ice hockey, running, and photography, among other hobbies.
+I live in Midtown Memphis and outside of the classroom I enjoy food and
+cooking, roller skating, ice hockey, running, and photography, among other
+hobbies.
 
-### Education
+## Education
+
 Ph.D., Computer Science and Engineering, The Ohio State University
 
 ## Feedback
