@@ -68,6 +68,28 @@ serve as guide in their discovery of knowledge.
   * [COMP385: Distributed Systems](https://ml8.github.io/comp385)
   * [COMP141: Computer Science I](https://ml8.github.io/comp141)
 
+### Referrals + Recommendations
+
+If you would like a letter of recommendation from me or a referral from me,
+there's some things I need from you first:
+
+* We need to talk about at _least_ three weeks before the deadline. Writing a
+  good letter of recommendation takes time, and I need to be able to schedule
+  myself at least an hour or two to write a good letter for you. Part of this
+  conversation should be about why _I_ should be writing the letter--why do you
+  think that I am the best person to write a letter for you or refer you?
+* You must have had me in class or have done work with me; if I don't know you
+  at all, I can't recommend you for anything. If you haven't talked with me
+  outside of class at all (e.g., during office hours or 1:1), then I am also
+  probably not the best person to ask.
+* You have to give me a current version of your resume or CV, any filled-out
+  paperwork that's required for the letter, and any information that you think
+  will help me write a letter.
+
+_Note about LinkedIn:_ I only connect with students on
+[LinkedIn](http://tinyr.us/me) that I have some sort of working relationship
+with. If I don't know who you are, I'll ignore your request to connect.
+
 ### Inclusive + Ethical Computing
 
 Making Computer Science education (and technology in general) inclusive is an
