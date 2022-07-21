@@ -2,12 +2,12 @@
 
 * Assistant Professor of Computer Science, Rhodes College
 * Email: [langm@rhodes.edu](mailto:langm@rhodes.edu)
-* [Medium](https://medium.com/@langma)
 * Office: Briggs 207
 * Zoom ID: [langma](https://rhodes.zoom.us/my/langma)
 * Calendly: [langma](https://calendly.com/langma)
 * Rhodes CS Slack: [rhodes-cs.slack.com](https://rhodes-cs.slack.com)
 * [Feedback](https://forms.gle/74oBX4KXSBuonmvh8)<sup>\[[1](#feedback)\]</sup>
+* [Medium](https://medium.com/@langma)
 
 ## Fall'21 -- Spring'22
 
