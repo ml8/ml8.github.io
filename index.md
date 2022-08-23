@@ -9,9 +9,10 @@
 * [Feedback](https://forms.gle/74oBX4KXSBuonmvh8)<sup>\[[1](#feedback)\]</sup>
 * [Medium](https://medium.com/@langma)
 
-## Fall'21 -- Spring'22
+## Current Courses
 
-On leave as Visiting Research Scientist at Google.
+* COMP485: [Senior Seminar](https://ml8.github.io/senior-seminar)
+* COMP251: [Intro to Systems](https://ml8.github.io/comp251)
 
 ## Research
 
@@ -43,8 +44,8 @@ serve as guide in their discovery of knowledge.
 ### Courses
 
 * Fall 2022
-  * COMP485: Senior Seminar
-  * COMP251: Intro to Systems
+  * COMP485: [Senior Seminar](https://ml8.github.io/senior-seminar)
+  * COMP251: [Intro to Systems](https://ml8.github.io/comp251)
 
 * Spring 2023:
   * COMP486: Senior Seminar
