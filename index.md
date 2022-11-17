@@ -1,11 +1,11 @@
 # Dr. Marion Lang
 
 * Assistant Professor of Computer Science, Rhodes College
-* Calendly: [lang-cal](https://calendly.com/lang-cal)
+* Book time via Calendly: [lang-cal](https://calendly.com/lang-cal)
+* Public Calendar: [Lang Rhodes Public](https://tinyr.us/lang-cal)
 * Email: [langm@rhodes.edu](mailto:langm@rhodes.edu)
-* Office: Briggs 207
+* Rhodes College Office: Briggs 207
 * Zoom ID: [langma](https://rhodes.zoom.us/my/langma)
-* Calendar: [Lang Rhodes Public](https://tinyr.us/lang-cal)
 * Rhodes CS Slack: [rhodes-cs.slack.com](https://rhodes-cs.slack.com)
 * [Feedback](https://forms.gle/74oBX4KXSBuonmvh8)<sup>\[[1](#feedback)\]</sup>
 * [Medium](https://medium.com/@langma)
