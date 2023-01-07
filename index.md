@@ -12,8 +12,8 @@
 
 ## Current Courses
 
-* COMP485: [Senior Seminar](https://ml8.github.io/senior-seminar)
-* COMP251: [Intro to Systems](https://ml8.github.io/comp251)
+* COMP251: [Intro to Systems](https://comp251.github.io)
+* COMP486: [Senior Seminar](https://ml8.github.io/comp251)
 
 ## Research
 
@@ -44,13 +44,13 @@ serve as guide in their discovery of knowledge.
 
 ### Courses
 
+* Spring 2023:
+  * COMP251: [Intro to Systems](https://comp251.github.io)
+  * COMP486: [Senior Seminar](https://ml8.github.io/comp251)
+
 * Fall 2022
   * COMP485: [Senior Seminar](https://ml8.github.io/senior-seminar)
   * COMP251: [Intro to Systems](https://ml8.github.io/comp251)
-
-* Spring 2023:
-  * COMP486: Senior Seminar
-  * COMP251: Intro to Systems
 
 * Fall 2021-Spring 2022:
   * On leave as Visiting Research Scientist at Google.
