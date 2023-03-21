@@ -9,6 +9,7 @@
 * Rhodes CS Slack: [rhodes-cs.slack.com](https://rhodes-cs.slack.com)
 * [Feedback](https://forms.gle/74oBX4KXSBuonmvh8)<sup>\[[1](#feedback)\]</sup>
 * [Medium](https://medium.com/@langma)
+* [GitHub](https://github.com/ml8)
 
 ## Current Courses
 
