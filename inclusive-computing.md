@@ -1,11 +1,11 @@
-# Just CS
+# Inclusive Computing Resources
 
 This is a collection of resources, organizations, and articles with a variety of
-foci, but all related to _responsible_ and _just_ CS, including increasing and
-supporting reprentation in the discipline. This is a list of things that
-__I've__ read/collected, so it is by no means exhaustive or complete. I am also
-not an expert on these topics, so this is likely to be a shallow/incomplete
-view.
+foci, but all related to _responsible_, _ethical_, and _inclusive_ CS, including
+increasing and supporting reprentation in the discipline. This is a list of
+things that __I've__ read/collected, so it is by no means exhaustive or
+complete. I am also not an expert on these topics, so this is likely to be a
+shallow/incomplete view.
 
 Included in this list are organizations related to activism as well as resources
 for building a more diverse and inclusive community of computer scientists.
@@ -17,7 +17,7 @@ This collection will grow over time. __Right now (11-25-20), this is just an
 initial dump of some things I've been looking at recently__.
 
 __Please feel free to
-[add/edit](https://github.com/ml8/ml8.github.io/edit/main/justcs.md)
+[add/edit](https://github.com/ml8/ml8.github.io/edit/main/inclusive-computing.md)
 this list.__ Pull requests are welcome.
 
 

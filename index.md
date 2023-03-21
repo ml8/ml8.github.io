@@ -98,8 +98,8 @@ with. If I don't know who you are, I'll ignore your request to connect.
 Making Computer Science education (and technology in general) inclusive is an
 important priority for me.
 
-Here's a [list](justcs.md) of resources/articles related to justice, diversity,
-and inclusion in CS that I will try to maintain/update.
+Here's a [list](inclusive-computing.md) of resources/articles related to
+justice, diversity, and inclusion in CS that I will try to maintain/update.
 
 ## Outside the Classroom
 
