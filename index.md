@@ -1,20 +1,15 @@
 # Dr. Marion Lang
 
-* Assistant Professor of Computer Science, Rhodes College
-* Book time via Calendly: [lang-cal](https://calendly.com/lang-cal)
-* Public Calendar: [Lang Rhodes Public](https://tinyr.us/lang-cal)
-* Email: [langm@rhodes.edu](mailto:langm@rhodes.edu)
-* Rhodes College Office: Briggs 207
-* Zoom ID: [langma](https://rhodes.zoom.us/my/langma)
-* Rhodes CS Slack: [rhodes-cs.slack.com](https://rhodes-cs.slack.com)
-* [Feedback](https://forms.gle/74oBX4KXSBuonmvh8)<sup>\[[1](#feedback)\]</sup>
+* Public Calendar: [Lang Public](https://tinyr.us/lang-cal)
+* Email: [langma@gmail.com](mailto:langma@gmail.com)
 * [Medium](https://medium.com/@langma)
 * [GitHub](https://github.com/ml8)
+* [Feedback](https://forms.gle/74oBX4KXSBuonmvh8)<sup>\[[1](#feedback)\]</sup>
 
-## Current Courses
+## Update 6/23
 
-* COMP251: [Intro to Systems](https://comp251.github.io)
-* COMP486: [Senior Seminar](https://ml8.github.io/comp251)
+I am departing Rhodes at the end of summer '23. If you would like to keep in
+touch, please use my personal email address (see above).
 
 ## Research
 
@@ -47,7 +42,7 @@ serve as guide in their discovery of knowledge.
 
 * Spring 2023:
   * COMP251: [Intro to Systems](https://comp251.github.io)
-  * COMP486: [Senior Seminar](https://ml8.github.io/comp251)
+  * COMP486: [Senior Seminar](https://ml8.github.io/senior-seminar)
 
 * Fall 2022
   * COMP485: [Senior Seminar](https://ml8.github.io/senior-seminar)
