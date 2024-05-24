@@ -2,6 +2,6 @@
 
 * Email: [langma@gmail.com](mailto:langma@gmail.com)
 * [GitHub](https://github.com/ml8)
-
-[faculty website archive](index_rhodes.md)
+* [Faculty website archive](index_rhodes.md)
+* [LinkedIn](https://tinyr.us/me)
 
