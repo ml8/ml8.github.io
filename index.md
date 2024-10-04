@@ -1,7 +1,6 @@
 # Marion Lang
 
-* Email: [langma@gmail.com](mailto:langma@gmail.com)
-* [GitHub](https://github.com/ml8)
-* [Faculty website archive](index_rhodes.md)
-* [LinkedIn](https://tinyr.us/me)
-
+* langma@gmail.com
+* [LinkedIn Profile](https://tinyr.us/me)
+* [GitHub Profile](https://github.com/ml8)
+* [Faculty Website (archived)](index_rhodes.md)
