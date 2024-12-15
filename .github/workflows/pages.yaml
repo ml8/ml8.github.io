@@ -27,6 +27,10 @@ jobs:
         with:
           go-version: '>=1.23.3'
         id: go
+      - name: dummy
+        run: |
+          echo "dummy"
+        shell: bash
       - name: Install sg
         run: |
           go install -a github.com/ml8/sg/sg@latest
