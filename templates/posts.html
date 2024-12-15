@@ -1,0 +1,13 @@
+{{/* Menu template. */}}
+
+<div id="postmenu">
+<h3>Posts</h3>
+{{ range $i, $element := .Site.Type "post" }}
+  {{ if not $element.Draft }}
+    <li class="nav-item">
+      <a class="nav-link" href="{{ url $element.Slug }}">{{ $element.Title }}
+        ({{ $element.Date.Format "01/02/06" }})</a>
+    </li>
+  {{ end }}
+{{ end }}
+</div>

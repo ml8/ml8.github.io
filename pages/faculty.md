@@ -1,4 +1,13 @@
-# Dr. Marion Lang
+---
+title: Faculty Webpage (archived)
+slug: rhodes-faculty
+type: default
+ordering: 50
+---
+
+<div id="title">
+  <h1>Dr. Marion Lang</h1>
+</div>
 
 * Public Calendar: [Lang Public](https://tinyr.us/lang-cal)
 * Email: [langma@gmail.com](mailto:langma@gmail.com)
@@ -87,14 +96,6 @@ there's some things I need from you first:
 _Note about LinkedIn:_ I only connect with students on
 [LinkedIn](http://tinyr.us/me) that I have some sort of working relationship
 with. If I don't know who you are, I'll ignore your request to connect.
-
-### Inclusive + Ethical Computing
-
-Making Computer Science education (and technology in general) inclusive is an
-important priority for me.
-
-Here's a [list](inclusive-computing.md) of resources/articles related to
-justice, diversity, and inclusion in CS that I will try to maintain/update.
 
 ## Outside the Classroom
 

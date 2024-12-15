@@ -1,0 +1,15 @@
+{{/* Menu template. */}}
+<div id="sitemenu">
+<ul>
+{{ range $i, $element := .Site.Type "default" }}
+  {{ if not $element.Draft }}
+    <li class="nav-item">
+      <a class="nav-link" href="{{ url $element.Slug }}">{{ $element.Title }}</a>
+    </li>
+  {{ end }}
+{{ end }}
+<li class="nav-item">
+  <a class="nav-link" href="/postlist.html">Posts</a>
+</li>
+</ul>
+</div>

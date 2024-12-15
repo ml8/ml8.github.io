@@ -1,0 +1,12 @@
+{{template "header" .}}
+
+<h1>{{ .Page.Title }}</h1>
+<div id="tags">
+  {{template "tags" .}}
+</div>
+<div id="content">
+  {{ .Page.Content }}
+</div>
+
+{{template "posts" .}}
+{{template "footer" .}}

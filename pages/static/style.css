@@ -1,0 +1,51 @@
+:root {
+  --bg-color: #202020;
+  --text-color: #eee;
+  --link-color: #268bd2;
+  --border-color: #4d004d
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  max-width: 800px;
+  margin: auto;
+  padding: .2em;
+  line-height: 1.5em;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  line-height: 1.5em;
+}
+
+#sitemenu ul li {
+  display: inline-block;
+  padding: 0 2em 0 0;
+}
+
+#tags ul {
+  display: inline;
+  padding: 0 0 0 1em;
+}
+#tags ul li {
+  display: inline-block;
+  padding: 0 1em 0 0;
+}
+
+pre {
+  border: 1px solid var(--border-color);
+  padding: 0;
+  overflow-x: auto;
+}
+
+@media only screen and (min-width : 480px) {
+}
