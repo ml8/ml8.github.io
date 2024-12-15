@@ -23,13 +23,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install Go
-        uses: actions/setup-go@v2
+        uses: actions/setup-go@v5
         with:
-          go-version: latest
+          go-version: '>=1.23.3'
         id: go
       - name: Install sg
         run: |
-          go install github.com/ml8/sg@latest
+          go install github.com/ml8/sg/sg@latest
         shell: bash
       - name: Checkout
         uses: actions/checkout@v4
