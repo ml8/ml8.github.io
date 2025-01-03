@@ -1,12 +1,17 @@
 {{template "header" .}}
 
 <h1>{{ .Page.Title }}</h1>
-<div id="tags">
+<!-- <div id="tags">
   {{template "tags" .}}
-</div>
+</div> -->
 <div id="content">
   {{ .Page.Content }}
 </div>
+
+<hr>
+
+Want to chat about this? Engage with me on Mastodon:
+<a href="https://hachyderm.io/@ml8">@ml8@hackyderm.io</a>.
 
 {{template "posts" .}}
 {{template "footer" .}}
