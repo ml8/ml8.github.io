@@ -149,12 +149,14 @@ __Doing, alone, doesn't generate knowledge, it is the reflection and subsequent
 rethinking of what we might do---and then __testing this__---that does.__
 
 So, is a toy project like a static site generator really meaningful to my growth
-as an engineer? I have certainly worked on infinitely more complex problems than
-this, and written infinitely better code to do so.
+as an engineer?
 
-But doing this one-off project, allowing myself the space to write code without
-any sort of expectations, I allow myself the time and space to reflect on the
-process. And to think about what I would do differently next time.
+I have certainly worked on infinitely more complex problems than this and
+written infinitely better code to solve them.
+
+However, doing this one-off project and allowing myself the space to write code
+without any sort of expectations has permitted me the time and space to reflect
+on the process. And to think about what I would do differently next time.
 
 And by keeping a sketchbook and continuing to do these sorts of toy projects, I
 ensure that __there always is a next time__ and that it is __a next time free
