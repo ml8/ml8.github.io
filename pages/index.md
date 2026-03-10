@@ -13,9 +13,6 @@ College](https://cs.rhodes.edu), where I loved introducing students to computing
 for the first time. Before that, I built streaming data analytics platforms at
 Google.
 
-I write about technology, teaching, and personal topics. My academic background
-is in distributed systems.
-
 <div class="contact-links">
 
 [GitHub](https://github.com/ml8) ·
