@@ -20,7 +20,6 @@ is in distributed systems.
 
 [GitHub](https://github.com/ml8) ·
 [LinkedIn](https://tinyr.us/me) ·
-[Mastodon](https://hachyderm.io/@ml8) ·
 [Email](mailto:langma@gmail.com)
 
 </div>
