@@ -1,5 +1,16 @@
   <footer class="site-footer">
-    <p>© {{ .Site.Title }}</p>
+    <p><a href="/">{{.Site.Title}}</a></p>
+    <p><a href="#" class="copy-link" id="share-link" onclick="copyPageURL(event)">📋 copy link</a></p>
   </footer>
+  <script>
+    function copyPageURL(e) {
+      e.preventDefault();
+      var link = document.getElementById('share-link');
+      navigator.clipboard.writeText(window.location.href).then(function() {
+        link.textContent = '✓ copied!';
+        setTimeout(function() { link.textContent = '📋 copy link'; }, 2000);
+      });
+    }
+  </script>
   </body>
 </html>

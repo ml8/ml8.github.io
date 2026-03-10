@@ -270,6 +270,11 @@ hr {
   text-align: center;
 }
 
+.site-footer .copy-link {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+}
+
 /* ── Contact links (homepage) ── */
 .contact-links {
   font-size: 0.95rem;
