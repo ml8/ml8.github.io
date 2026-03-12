@@ -33,7 +33,8 @@ My professional work is available in my CV.
 - [Skate Dryer](https://github.com/ml8/attiny85-skate-dryer): A toy skate
   dryer using an ATtiny85 microcontroller to run a fan on a timer. Press a
   button a few times to set how long it runs. Not exactly cutting-edge embedded
-  systems, but it dries my skates.
+  systems, but it dries my skates, and I found it to be a nice way to explore
+  the microcontroller, maybe others would find it a useful minimal example.
 - [Rhodes CS JupyterHub](https://github.com/Rhodes-CS-Department/jupyterhub-deployment):
   A bespoke JupyterHub environment on GCP/Kubernetes for students learning
   Python at Rhodes College, along with a set of [custom
