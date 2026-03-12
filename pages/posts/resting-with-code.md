@@ -4,7 +4,7 @@ slug: hobby-projects
 type: post
 date: 2024-12-31
 draft: false
-tags: ['programming', 'growth mindset', 'hobby projects']
+tags: ['programming', 'growth mindset', 'hobby projects', 'feed']
 ---
 
 > Embrace a creative practice by doing low-stakes, reflective personal projects.

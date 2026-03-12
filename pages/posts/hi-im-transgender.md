@@ -4,7 +4,7 @@ slug: hi-im-trans
 type: post
 date: 2022-03-31
 draft: false
-tags: ['transgender', 'nontechnical']
+tags: ['transgender', 'nontechnical', 'feed']
 ---
 
 ___Originally posted 3/31/2022 [on

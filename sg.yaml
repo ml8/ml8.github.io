@@ -1,2 +1,5 @@
 root_url: "https://ml8.github.io"
 title: "Marion Lang"
+feed_tag: "feed"
+feed_url: "feed.xml"
+description: "Marion Lang's personal website"
