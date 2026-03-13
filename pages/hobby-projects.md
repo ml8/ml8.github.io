@@ -26,10 +26,10 @@ My professional work is available in my CV.
 - [sg](https://github.com/ml8/sg): A bare-bones static site generator in Go.
   It's what generates this site. I wrote a little about why I do these sorts of
   projects [here](/hobby-projects/resting-with-code).
-- [rss2rm](https://github.com/ml8/rss2rm): A tool and service for polling RSS
-  feeds and rendering them for reading/marking on a
-  [reMarkable](https://remarkable.com) tablet. Built for me and my dad to get
-  our reading on our tablets. 👩🏻‍💼👴🏻
+- [rss2rm](https://github.com/ml8/rss2rm): A tool and [web
+  service](https://rss2rm.ml8.sh) for polling RSS feeds and rendering them for
+  reading/marking on a [reMarkable](https://remarkable.com) tablet. Built for me
+  and my dad to get our reading on our tablets. 👩🏻‍💼👴🏻
 - [tinyr](https://github.com/ml8/tinyr): A poorly-written URL shortener in Go
   with support for multiple storage backends, OIDC authentication, and GCP
   deployment via Helm and Terraform. Built to experiment with some things. Live
