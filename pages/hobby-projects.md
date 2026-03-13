@@ -25,7 +25,7 @@ My professional work is available in my CV.
   able to find.
 - [sg](https://github.com/ml8/sg): A bare-bones static site generator in Go.
   It's what generates this site. I wrote a little about why I do these sorts of
-  projects [here](/hobby-projects/resting-with-code).
+  projects [here](/posts/resting-with-code.html).
 - [rss2rm](https://github.com/ml8/rss2rm): A tool and [web
   service](https://rss2rm.ml8.sh) for polling RSS feeds and rendering them for
   reading/marking on a [reMarkable](https://remarkable.com) tablet. Built for me
