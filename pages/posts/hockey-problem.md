@@ -16,8 +16,6 @@ levels---including recreational and youth leagues. Rather than addressing the
 abuse that has become synonymous with the sport, hockey's governing body is
 excluding already-marginalized people from the game they love.
 
----
-
 Hockey is a beautiful sport. As a recreational-level player of the sport for 30+ years, there’s nothing that makes me feel more alive than the cold air against my face as I move down the rink, the sound of my skate steel cutting the ice, the smell of the rink... I love hockey. 
 
 However, hockey has a problem with its culture, and the lessons that kids learn from it. Part of the problem was dragged into the light by the sexist and misogynistic “[locker room talk](https://www.nytimes.com/athletic/7070799/2026/02/25/usa-hockey-olympics-trump-reaction/)” the Team USA men’s hockey team displayed during their gold medal win at the recent Olympics. 
@@ -54,7 +52,15 @@ In hockey circles this resume of injuries would be bragging. As a 45 year old so
 
 It **is** pathological behavior. **How did I learn this? How does hockey teach this to kids?**
 
-l---a fellow Ohioan about my age---the players related stories of institutionalized hazing, including eight players being locked nude in a tiny bus bathroom together, naked players being paddled with sticks, players forced to bob for apples in coolers of urine, and a player strapped down and beaten with a belt.
+---
+
+I know in my case, and in the case of many, many other young hockey players, **I learned how to compartmentalize pain through sexual violence** and hazing.
+
+The culture of hazing in hockey starts young and is sexual in nature. It is pervasive throughout every level from youth to NHL. It is an open secret that repeatedly has attention drawn to it, but very little of substance has been done; how else would we create these warriors with no sense of self-preservation?
+
+However, in 2020, I thought we might have a [“Me Too” moment for hockey](https://www.nytimes.com/athletic/1947978/2021/01/09/hockey-nhl-toxic-culture-robson/).
+
+In a class-action [lawsuit](https://www.nytimes.com/athletic/1889350/2020/06/25/dan-fritsche-says-he-was-also-abused-in-junior-hockey-will-join-daniel-carcillo-lawsuit/) filed by [Daniel Carcillo](https://danielcarcillo.com/) and joined by Dan Fritsche---a fellow Ohioan about my age---the players related stories of institutionalized hazing, including eight players being locked nude in a tiny bus bathroom together, naked players being paddled with sticks, players forced to bob for apples in coolers of urine, and a player strapped down and beaten with a belt.
 
 A [similar class-action suit against the Quebec Major Junior Hockey League](https://globalnews.ca/news/10602737/disturbing-allegations-qmjhl-hazing-lawsuit/) detailed similar abuses, including sodomization of players with sticks, force-feeding marshmallows to players  that had been inside others’ rectums, and other forms of sexual torture.
 
@@ -121,4 +127,5 @@ I would ask that fans new to hockey from the Olympics and *Heated Rivalry*---esp
 I’d also ask fans of hockey who see nothing wrong with USA Hockey’s policy to reconsider why they support such a ban. It’s not to preserve competition in rec leagues. It’s not for player safety---there’s not even checking in women’s leagues. If you are a hockey fan and you don’t have any transgender people in your life to get perspective from, try reading. [*Let Us Play*](https://www.penguinrandomhouse.com/books/780979/let-us-play-by-harrison-browne-and-rachel-browne/) is a good introduction to the lived experiences of transgender athletes, including young athletes, and was co-written by Harrison Browne, a transgender professional hockey player.
 
 Fans of hockey **need better answers** from USA Hockey on how it is making the sport safe ***and*** more inclusive. Transgender women are not dangerous. *Toxic masculinity is.* So as we wait for fact-based, real conversations to **start** about trans women, hockey culture, and what we want sports to mean in our society, I have one question for USA Hockey and the US Men’s team: **What do we want kids to learn from hockey?**
+
 
