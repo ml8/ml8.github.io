@@ -1,5 +1,5 @@
 ---
-title: Faculty Webpage (archived)
+title: Faculty (archived)
 slug: rhodes-faculty
 type: default
 ordering: 50
