@@ -280,7 +280,20 @@ hr {
   color: var(--text-secondary);
 }
 
-/* ── Contact links (homepage) ── */
+/* ── Contact page ── */
+.contact-page {
+  text-align: center;
+}
+
+.contact-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 1.5rem auto;
+}
+
+/* ── Contact links ── */
 .contact-links {
   font-size: 0.95rem;
   margin-top: 1.5rem;

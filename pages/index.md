@@ -23,6 +23,6 @@ algorithms with a particular interest in properties other than correctness.
 
 [GitHub](https://github.com/ml8) ·
 [LinkedIn](https://tinyr.us/me) ·
-[Email](mailto:langma@gmail.com)
+[Email](mailto:langma+web@gmail.com)
 
 </div>

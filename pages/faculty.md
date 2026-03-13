@@ -10,7 +10,7 @@ ordering: 50
 </div>
 
 * Public Calendar: [Lang Public](https://tinyr.us/lang-cal)
-* Email: [langma@gmail.com](mailto:langma@gmail.com)
+* Email: [langma@gmail.com](mailto:langma+web@gmail.com)
 * [Medium](https://medium.com/@langma)
 * [GitHub](https://github.com/ml8)
 * [Feedback](https://forms.gle/74oBX4KXSBuonmvh8)<sup>\[[1](#feedback)\]</sup>
