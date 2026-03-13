@@ -26,10 +26,14 @@ My professional work is available in my CV.
 - [sg](https://github.com/ml8/sg): A bare-bones static site generator in Go.
   It's what generates this site. I wrote a little about why I do these sorts of
   projects [here](/hobby-projects/resting-with-code).
+- [rss2rm](https://github.com/ml8/rss2rm): A tool and service for polling RSS
+  feeds and rendering them for reading/marking on a
+  [reMarkable](https://remarkable.com) tablet. Built for me and my dad to get
+  our reading on our tablets. 👩🏻‍💼👴🏻
 - [tinyr](https://github.com/ml8/tinyr): A poorly-written URL shortener in Go
   with support for multiple storage backends, OIDC authentication, and GCP
-  deployment via Helm and Terraform. Simple enough to be a sketch, complex
-  enough to touch a lot of infrastructure. Live at [tinyr.us](https://tinyr.us).
+  deployment via Helm and Terraform. Built to experiment with some things. Live
+  at [tinyr.us](https://tinyr.us) and serves my personal short links.
 - [Skate Dryer](https://github.com/ml8/attiny85-skate-dryer): A toy skate
   dryer using an ATtiny85 microcontroller to run a fan on a timer. Press a
   button a few times to set how long it runs. Not exactly cutting-edge embedded
@@ -40,17 +44,19 @@ My professional work is available in my CV.
   Python at Rhodes College, along with a set of [custom
   libraries](https://github.com/Rhodes-CS-Department/comp141-libraries) for the
   introductory CS course. This became the standard platform for how the course
-  is delivered across 6+ sections per year by multiple faculty.
-- [6502 Computer](https://github.com/ml8/6502): Assembly source and tooling for
-  a hand-designed 6502-based computer architecture with EEPROM, RAM, I/O via a
-  65c22 VIA, an LCD, and a serial interface. Very much a work in progress---a
-  partially-built project that was moving toward being integrated into my
-  [COMP251 course](https://comp251.github.io) at Rhodes, but ultimately was
-  shelved as a I left teaching.
+  is delivered across 6+ sections per year by multiple faculty and is fairly
+  easily adaptable for other institutions. The documentation is extensive and
+  doesn't assume prior knowledge, so this could be a useful reference for other
+  educators looking to set up a similar environment.
 - [Slack Queue](https://github.com/ml8/slack-queue): A Slack bot for managing
   per-channel queues. Users can enqueue themselves, administrators can manage
   the queue. I developed this in 2020 as [Rhodes
   College Computer Science](https://www.cs.rhodes.edu) transitioned to remote
   learning, and was used for our tutoring program for a few years. I planned for
   the project to be maintained by students.
-
+- [6502 Computer](https://github.com/ml8/6502): Assembly source and tooling for
+  a hand-designed 6502-based computer architecture with EEPROM, RAM, I/O via a
+  65c22 VIA, an LCD, and a serial interface. Very much a work in progress---a
+  partially-built project that was moving toward being integrated into my
+  [COMP251 course](https://comp251.github.io) at Rhodes, but ultimately was
+  shelved as a I left teaching.
