@@ -7,7 +7,7 @@ draft: false
 tags: ['programming', 'teaching', 'ai', 'software engineering', 'feed']
 ---
 
-> TL;DR: AI is reshaping how software gets built, but industry is absent from
+> TL;DR: AI is reshaping how software is built, but industry is absent from
 > the conversation about how we teach the next generation of engineers-—-and
 > salesmanship is making it harder for educators to separate real uses of AI
 > from hype. SIGCSE 2026 made clear that industry must show up, be honest about
@@ -32,14 +32,14 @@ AI is the answer to.
 
 But the reality is that generative AI and LLMs are great at solving our
 **accidental complexities**. They are not yet, nor likely ever, solving our
-**essential complexities**. They're fantastic at solving the overhead of syntax, connecting systems, etc.
-However, AI tools are only as good as the spec they are given. For nontrivial
-problems, the spec is the hard part, and the part that requires the computer
-scientist and computer science thinking. The coding is the mechanical
-translation of these specs and corresponding mental models.
+**essential complexities**. They're fantastic at solving the overhead of syntax,
+connecting systems, etc. However, AI tools are only as good as the spec they are
+given. For nontrivial problems, the spec is the hard part, and the part that
+requires the computer scientist and computer science thinking. The coding is the
+mechanical translation of these specs and corresponding mental models.
 
-**There is no silver bullet for solving the essential complexity, at least
-no silver bullet that comes from the statistical correlation of symbols in
+**There is no silver bullet for solving the essential complexity, at least no
+silver bullet that comes from the statistical correlation of symbols in
 human-produced text.**
 
 This distinction was missing from SIGCSE2026.
@@ -52,7 +52,10 @@ This distinction was missing from SIGCSE2026.
 > of what I've written here.
 
 In fact, it was the worst SIGCSE that I have been to. I didn’t come away from
-SIGCSE with a whole lot to think about, other than this article.
+SIGCSE with a whole lot to think about, other than this article. I attended (or
+heard reports from friends about) many, many, many sessions about AI, but I
+didn't hear any particularly good talks, other than a few that were in
+partnership with industry.
 
 Why?
 
@@ -63,7 +66,7 @@ Generally, the EDU community does not know how to
 think about or how to respond to generative AI. On the one hand, this feels
 natural---we're sharing how we're figuring things out and evolving a shared
 understanding and future. However, the technology is still very early, and it
-seems to me like EDU is finding it very difficult to differentiate signal and
+seems like EDU is finding it very difficult to differentiate signal and
 noise.
 
 This is compounded by the fact that **we in industry** are generally having
@@ -178,7 +181,7 @@ exercise.
 ![Math vs Art](/assets/math-art.png)
 
 What does it look like to shift the way that we think about what we want to
-assess? I think that this looks like loosening our focus on the medium of
+assess? This looks like loosening our focus on the medium of
 programming and more on the **process skills** that undergird programming.
 Spending more time talking about specification and refinement, more time talking
 about type theory, more time talking about semantic execution models, and *more
