@@ -19,6 +19,8 @@ systems and associated problems of scale.
 My academic background is in specification/verification of distributed
 algorithms with a particular interest in properties other than correctness. 
 
+I do not use generative AI for my writing.
+
 <div class="contact-links">
 
 [GitHub](https://github.com/ml8) ·
