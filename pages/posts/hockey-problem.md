@@ -11,7 +11,7 @@ __Or: Why I'm not jazzed about _Heated Rivalry_.__
 
 > TL;DR: Hockey culture has deep-rooted problems with toxic masculinity, hazing,
 and sexual violence that actively harm young players, yet USA Hockey has chosen
-to focus on banning transgender women and girls from playing at all
+to focus on effectively banning transgender women and girls from playing at all
 levels---including recreational and youth leagues. Rather than addressing the
 abuse that has become synonymous with the sport, hockey's governing body is
 excluding already-marginalized people from the game they love.
