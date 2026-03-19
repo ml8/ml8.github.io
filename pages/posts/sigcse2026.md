@@ -27,16 +27,15 @@ today.
 
 Software engineering is hard. At its core is the construction of _complex_ and
 _reliable_ systems from _simple_ and _unreliable_ components. This construction
-is fraught with complexities---complexities that we may believe that generative
-AI is the answer to.
+is fraught with complexities---complexities that marketing claims AI will solve.
 
-But the reality is that generative AI and LLMs are great at solving our
-**accidental complexities**. They are not yet, nor likely ever, solving our
-**essential complexities**. They're fantastic at solving the overhead of syntax,
-connecting systems, etc. However, AI tools are only as good as the spec they are
-given. For nontrivial problems, the spec is the hard part, and the part that
-requires the computer scientist and computer science thinking. The coding is the
-mechanical translation of these specs and corresponding mental models.
+The reality is that generative AI and LLMs excel at solving our **accidental
+complexities**: the overhead of syntax, connecting systems, aggregating
+disparate data sources, etc. They do not---**and likely will never**---solve
+our **essential complexities**. For nontrivial problems, _what_ to build is the
+hard part, and the part that requires the computer scientist and deep computer
+science thinking. Coding is just the mechanical translation of these specs and
+corresponding mental models. 
 
 **There is no silver bullet for solving the essential complexity, at least no
 silver bullet that comes from the statistical correlation of symbols in
@@ -47,7 +46,7 @@ This distinction was missing from SIGCSE2026.
 ## SIGCSE 2026 was bad
 
 > I have to admit that I wrote most of this article while the Saturday morning
-> sessions were happening. I missed [Titus Winter’s EXCELLENT
+> sessions were happening. I missed [Titus Winters’s EXCELLENT
 > keynote](https://www.youtube.com/watch?v=6Fyjf3gFjUk) that reinforces most
 > of what I've written here.
 
@@ -66,7 +65,7 @@ Generally, the EDU community does not know how to
 think about or how to respond to generative AI. On the one hand, this feels
 natural---we're sharing how we're figuring things out and evolving a shared
 understanding and future. However, the technology is still very early, and it
-seems like EDU is finding it very difficult to differentiate signal and
+seems like EDU is finding it very difficult to differentiate signal from
 noise.
 
 This is compounded by the fact that **we in industry** are generally having
@@ -84,8 +83,8 @@ difficulty with this differentiation. Conversations about AI have conflated two 
   corresponding AI-infusion and sales of AI-infused products. Conversations
   around eliminating white collar entry-level jobs, automating professions,
   eliminating creatives, "agentic employees," etc. are hyperbolic, unrealistic,
-  and driving an economic bubble built on top a house of cards and an
-  unrealistic, inhumane, and fundamentally capitalist view of the future.
+  and driving an economic bubble and an unrealistic, inhumane, and fundamentally
+  capitalist view of the future.
 
 The real benefits of AI---the actual usages that are economically and
 environmentally sustainable, have provable positive impact, and provide real
@@ -122,25 +121,28 @@ reliability globally.
 __Reliable systems are not vibe coded, nor are they
 disposable.__
 
-We see this now with Amazon, which [reportedly is in the midst of a reliability
-crisis](https://thenewstack.io/amazon-ai-assisted-errors/).
+We see this now with Amazon, which [reportedly having a reliability
+crisis brought on by generative AI](https://thenewstack.io/amazon-ai-assisted-errors/). 
 
 ## A crisis of identity
 
-I believe that at the heart of this disconnect in
-education is a fundamental misunderstanding of our identity as computer
-scientists and software engineers. Computer science has long been considered a
-branch of applied mathematics, a specialization in the subdiscipline of
-information processes. This is **of course** true. However, this disciplinary
-identity is disconnected from the **work** of most computer scientists who,
-rather than act as mathematicians studying processes in isolation, act as agents
-upon the world through the construction of real-world systems.
+At the heart of this disconnect in education is a fundamental misunderstanding
+of our identity as computer scientists and software engineers. 
 
-That act is fundamentally an act of creativity. As a practitioner, the challenge
-(and excitement) of my work is in my creative application of critical,
-structured thinking to ambiguous and informally specified problems. Our first
-act is one of refinement: of formalizing a problem into a precise definition.
-Our second act is to translate this precise definition into a software system.
+Computer science has long been considered a branch of applied mathematics, a
+specialization in the subdiscipline of information processes. While true, this
+disciplinary identity is disconnected from the **work** of most computer
+scientists. 
+
+**We do not act as mathematicians studying processes in isolation; we act upon
+the world through the construction of real-world systems. _Building software
+is a creative act._**
+
+As a practitioner, the challenge (and excitement) of my work is in my creative
+application of critical, structured thinking to ambiguous and informally
+specified problems. Our first act is one of refinement: of formalizing a
+problem into a precise definition.  Our second act is to translate this precise
+definition into a software system.
 
 Computer scientists have often noted this. 50 years ago Dijkstra [made the
 statement](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD896.html)
@@ -151,9 +153,9 @@ thinking](https://www.cs.princeton.edu/~chazelle/courses/BIB/jeannette-wing.pdf)
 CS Principles and other "unplugged" curricula have continued this thread of
 thought.
 
-However, changes in undergraduate education have lagged behind in these changes.
-I think that this is because of our identities. We consider ourselves, often, as
-applied mathematicians, or at least "scientists" or "engineers."
+However, changes in undergraduate education have lagged behind.  This lag is
+rooted in our identities. We consider ourselves, often, as applied
+mathematicians, or at least "scientists" or "engineers."
 
 This sort of self-characterization breeds an obsession with formality,
 precision, and objective assessment---and an obsession with programming as the
@@ -161,22 +163,25 @@ fundamental skill we teach our students. Programming is a process of
 translation, and the _most_ mechanical work that we do---perhaps the _most_
 accidental complexity.
 
-If we are honest with ourselves about
-our work---either as researchers or as practitioners---I think we are more similar
-to creatives. We are not so different from designers, artists, or
-marketers---those of our peers whose job is to translate abstract concepts and
-objectives into novel and strategic artifacts that **interpret** and
-**communicate** these objectives. This translation is _not_ mechanical and
+If we are honest with ourselves about our work---either as researchers or as
+practitioners---_we are creatives_. We are not so different from designers,
+artists, or marketers---those of our peers whose job is to translate abstract
+concepts and objectives into novel and strategic artifacts that **interpret**
+and **communicate** these objectives.  This translation is _not_ mechanical and
 requires expertise, judgment, _and_ creativity. This is the _essential_
 complexity of our work.
 
-**Embracing a creative identity:** Why are student assignments so easy with AI? We do the
-hard work for them: we generate the precise specification and assess only the
-mechanical translation. What we really want to do is assess the problem-solving
-skills: those skills of refinement and specification. We want to see the ideas
-behind the algorithm, but our assignments are so scaffolded so as to constrain
-creativity in the design of that algorithm, making it an almost-meaningless
-exercise.
+## Embracing a creative identity
+
+Why are student assignments so easy with AI?
+It's our fault, we've trivialized them, and we assess the wrong things. We do
+the hard work for them: we generate the precise specification and assess only
+the mechanical translation. **This is the exact skill that AI does best!**
+
+What we really want to do is assess the problem-solving skills: those skills of
+refinement and specification. We want to see the ideas behind the algorithm,
+but our assignments are so scaffolded so as to constrain creativity in the
+design of that algorithm, making it an almost-meaningless exercise.
 
 ![Math vs Art](/assets/math-art.png)
 
@@ -220,10 +225,10 @@ for themselves and are flailing. The only AI-related talks that I heard that
 were any good at SIGCSE came out of industry partnerships. We need to do more
 here globally across the industry. 
 
-Where is Anthropic and Claude at SIGCSE?
-Where is GitHub beyond our education team? Where is Cursor? **These tools want
-to revolutionize software construction without meaningfully engaging with the
-source of our students’ intellectual development as computer scientists**.
+Where were Anthropic and Claude at SIGCSE? Where was GitHub beyond our education
+team? Where was Cursor? **These tools want to revolutionize software
+construction without meaningfully engaging with the source of our students’
+intellectual development as computer scientists**.
 
 **Industry is the hinge, and it needs to be more present.**
 
@@ -234,11 +239,11 @@ what to build, how, and by whom. These are the problems of design and creative
 acts. As Brooks argues in his closing, constructing software is about people.
 Growing those people into a AI-enabled future requires collaboration.
 
-Industry need to be in a tighter loop here and to support EDU in teaching
+Industry needs to be in a tighter loop here and to support EDU in teaching
 generative AI for software engineering. The distinction between real use and
 salesmanship has to be clear to educators _and_ to students. Industry must
 partner outside of large research institutions and researchers that advance
 industry state-of-the-art and engage with people teaching computer science to
-most students in the US. Industry need to be in the conversation, or our talent
+most students in the US. Industry needs to be in the conversation, or our talent
 pools will age out.
 
