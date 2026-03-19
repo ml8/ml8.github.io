@@ -27,11 +27,11 @@ today.
 
 Software engineering is hard. At its core is the construction of _complex_ and
 _reliable_ systems from _simple_ and _unreliable_ components. This construction
-is fraught with complexities---complexities that marketing claims AI will solve.
+is fraught with complexities---complexities that some hope AI will solve.
 
 The reality is that generative AI and LLMs excel at solving our **accidental
 complexities**: the overhead of syntax, connecting systems, aggregating
-disparate data sources, etc. They do not---**and likely will never**---solve
+disparate data sources, etc. They do not---**and likely never will**---solve
 our **essential complexities**. For nontrivial problems, _what_ to build is the
 hard part, and the part that requires the computer scientist and deep computer
 science thinking. Coding is just the mechanical translation of these specs and
@@ -122,7 +122,8 @@ __Reliable systems are not vibe coded, nor are they
 disposable.__
 
 We see this now with Amazon, which [reportedly having a reliability
-crisis brought on by generative AI](https://thenewstack.io/amazon-ai-assisted-errors/). 
+crisis brought on by flakiness of AI-generated
+code](https://thenewstack.io/amazon-ai-assisted-errors/). 
 
 ## A crisis of identity
 
@@ -225,8 +226,8 @@ for themselves and are flailing. The only AI-related talks that I heard that
 were any good at SIGCSE came out of industry partnerships. We need to do more
 here globally across the industry. 
 
-Where were Anthropic and Claude at SIGCSE? Where was GitHub beyond our education
-team? Where was Cursor? **These tools want to revolutionize software
+GitHub was at SIGCSE, but where were Anthropic and Claude at SIGCSE? Where was
+Cursor? Other major players?  **These tools want to revolutionize software
 construction without meaningfully engaging with the source of our students’
 intellectual development as computer scientists**.
 
