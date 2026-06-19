@@ -5,20 +5,25 @@ type: default
 ordering: 90
 ---
 
-A selection of some simple hobby projects that have fun experiences for me, or
-might be useful for others poking around in similar areas. Most of this is
-nonserious, for my own enjoyment/entertainment, or for exploring new
-technologies. I don't expect these to be production-quality or employ novel
-algorithms (or even be novel systems). My goal with these is to do fun, simple
-things that I find useful. I am trying to share more of this work, and will try
-to keep this updated.
+A selection of some deliberately-simple hobby projects ([read
+why](/posts/resting-with-code.html) that I have used to explore areas, ideas, or
+have just fun experiences for me. This might be useful for others poking around
+in similar areas.  I don't expect these to be production-quality or employ novel
+algorithms (or even be novel systems), but some of them are genuinely useful and
+are used by others.
+
+My goal with these is to do fun, simple things that I find useful. I am trying
+to share more of this work, and will try to keep this updated.
 
 My professional work is available in my CV.
 
 - [altex](https://github.com/ml8/altex): A tool for post-processing
   LaTeX-generated PDFs to add accessibility structure, including alt text and
   natural language math text-to-speech. Accessibility tooling for LaTeX is
-  surprisingly sparse. Live at [altex.ml8.sh](https://altex.ml8.sh).
+  surprisingly sparse. Live at [altex.ml8.sh](https://altex.ml8.sh). Mostly
+  built for updating latex documents for ADA Title II compliance for faculty
+  (since this is a new requirement for public institutions), but it fills a
+  genuine gap.
 - [3x3 Macropad](https://github.com/ml8/3x3): A 3x3 macropad with tooling for
   custom keymaps using qmk and a tool for programming the built-in OLED. One of
   the few examples of using the qmk USB HID and qmk EEPROM features that I was
