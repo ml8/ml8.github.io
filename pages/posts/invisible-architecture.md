@@ -12,7 +12,7 @@ tags: ['programming', 'poetry', 'software engineering', 'feed', 'distributed sys
 > of the poem is important.
 >
 > -- Barbara Guest, ["Invisible
-> Architecture"](https://www.poetryfoundation.org/poems/54866/invisible-architecture)
+> Architecture"](https://www.poetryfoundation.org/articles/69475/invisible-architecture)
 
 I've built my life around computer science and software.
 
