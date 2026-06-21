@@ -6,7 +6,7 @@ ordering: 90
 ---
 
 A selection of some deliberately-simple hobby projects ([read
-why](/posts/resting-with-code.html) that I have used to explore areas, ideas, or
+why](/posts/resting-with-code.html)) that I have used to explore areas, ideas, or
 have just fun experiences for me. This might be useful for others poking around
 in similar areas.  I don't expect these to be production-quality or employ novel
 algorithms (or even be novel systems), but some of them are genuinely useful and
@@ -28,22 +28,17 @@ My professional work is available in my CV.
   custom keymaps using qmk and a tool for programming the built-in OLED. One of
   the few examples of using the qmk USB HID and qmk EEPROM features that I was
   able to find.
-- [sg](https://github.com/ml8/sg): A bare-bones static site generator in Go.
-  It's what generates this site. I wrote a little about why I do these sorts of
-  projects [here](/posts/resting-with-code.html).
-- [rss2rm](https://github.com/ml8/rss2rm): A tool and [web
-  service](https://rss2rm.ml8.sh) for polling RSS feeds and rendering them for
-  reading/marking on a [reMarkable](https://remarkable.com) tablet. Built for me
-  and my dad to get our reading on our tablets. 👩🏻‍💼👴🏻
-- [tinyr](https://github.com/ml8/tinyr): A poorly-written URL shortener in Go
-  with support for multiple storage backends, OIDC authentication, and GCP
-  deployment via Helm and Terraform. Built to experiment with some things. Live
-  at [tinyr.us](https://tinyr.us) and serves my personal short links.
-- [Skate Dryer](https://github.com/ml8/attiny85-skate-dryer): A toy skate
-  dryer using an ATtiny85 microcontroller to run a fan on a timer. Press a
-  button a few times to set how long it runs. Not exactly cutting-edge embedded
-  systems, but it dries my skates, and I found it to be a nice way to explore
-  the microcontroller, maybe others would find it a useful minimal example.
+- [tinyr](https://github.com/ml8/tinyr): A barebones but surprisingly complete
+  URL shortener in Go with support for multiple storage backends, OIDC
+  authentication, and GCP deployment via Helm and Terraform. Built to experiment
+  with some things. Live at [tinyr.us](https://tinyr.us) and serves my personal
+  short links.
+- [6502 Computer](https://github.com/ml8/6502): Assembly source and tooling for
+  a hand-designed 6502-based computer architecture with EEPROM, RAM, I/O via a
+  65c22 VIA, an LCD, and a serial interface. Very much a work in progress---a
+  partially-built project that was moving toward being integrated into my
+  [COMP251 course](https://comp251.github.io) at Rhodes, but ultimately was
+  shelved as a I left teaching.
 - [Rhodes CS JupyterHub](https://github.com/Rhodes-CS-Department/jupyterhub-deployment):
   A bespoke JupyterHub environment on GCP/Kubernetes for students learning
   Python at Rhodes College, along with a set of [custom
@@ -53,15 +48,21 @@ My professional work is available in my CV.
   easily adaptable for other institutions. The documentation is extensive and
   doesn't assume prior knowledge, so this could be a useful reference for other
   educators looking to set up a similar environment.
+- [sg](https://github.com/ml8/sg): A bare-bones static site generator in Go.
+  It's what generates this site. I wrote a little about why I do these sorts of
+  projects [here](/posts/resting-with-code.html).
+- [rss2rm](https://github.com/ml8/rss2rm): A tool and [web
+  service](https://rss2rm.ml8.sh) for polling RSS feeds and rendering them for
+  reading/marking on a [reMarkable](https://remarkable.com) tablet. Built for me
+  and my dad to get our reading on our tablets. 👩🏻‍💼👴🏻
 - [Slack Queue](https://github.com/ml8/slack-queue): A Slack bot for managing
   per-channel queues. Users can enqueue themselves, administrators can manage
   the queue. I developed this in 2020 as [Rhodes
   College Computer Science](https://www.cs.rhodes.edu) transitioned to remote
   learning, and was used for our tutoring program for a few years. I planned for
   the project to be maintained by students.
-- [6502 Computer](https://github.com/ml8/6502): Assembly source and tooling for
-  a hand-designed 6502-based computer architecture with EEPROM, RAM, I/O via a
-  65c22 VIA, an LCD, and a serial interface. Very much a work in progress---a
-  partially-built project that was moving toward being integrated into my
-  [COMP251 course](https://comp251.github.io) at Rhodes, but ultimately was
-  shelved as a I left teaching.
+- [Skate Dryer](https://github.com/ml8/attiny85-skate-dryer): A toy skate
+  dryer using an ATtiny85 microcontroller to run a fan on a timer. Press a
+  button a few times to set how long it runs. Not exactly cutting-edge embedded
+  systems, but it dries my skates, and I found it to be a nice way to explore
+  the microcontroller, maybe others would find it a useful minimal example.
