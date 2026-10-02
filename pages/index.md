@@ -5,8 +5,11 @@ type: default
 ordering: -1
 ---
 
-Hi! I'm Marion Lang. I'm currently a principal engineer at
-[GitHub](https://github.com). Before this, I built streaming systems at Google.
+Hi! I'm Marion Lang. I'm a computer scientist and software engineer by trade. My
+most recent role was as a principal engineer at [GitHub](https://github.com),
+where I architected lead the early phases of GitHub's cloud migration. Before
+this, I built streaming systems at Google.
+
 In past lives, I've also been a computer science professor, most recently at
 [Rhodes College](https://cs.rhodes.edu). As a professor, I was passionate about
 teaching novices, and loved teaching in [small liberal arts
